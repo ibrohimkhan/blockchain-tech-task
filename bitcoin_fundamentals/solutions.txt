@@ -18,7 +18,7 @@ Bitcoin blockchain is different than traditional financial system, there is no u
 
 Q3. What is the structure of a Block in bitcoin and how does it relate to the 'blockchain' (merkle tree vs merkle list of merkle trees) 
 
-A Bitcoin block records the data related to a Bitcoin transaction. The new blocks are mined one after the other with all new transactions in the network, recorded permanently. Bitcoin blockchain makes it very difficult to modify or delete the data that is registered on o block. Bitcoin blockchain in crated by linking individual block one after the other. A block structure has several elements:
+A Bitcoin block records the data related to a Bitcoin transaction. The new blocks are mined one after the other with all new transactions in the network, recorded permanently. Bitcoin blockchain makes it very difficult to modify or delete the data that is registered on a block. Bitcoin blockchain in created by linking individual block one after the other. A block structure has several elements:
 	1. Block identifiers
 	2. Block header
 	3. Transactions 
